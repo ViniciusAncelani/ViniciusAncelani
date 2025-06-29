@@ -15,8 +15,8 @@ Me chamo Vinicius Ancelani, Tenho 17 anos e sou natural de Guarulhos, São Paulo
 ### Estastísticas
 <div>
     <a href = "https://github.com/ViniciusAncelani">
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ViniciusAncelani&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAncelani&layout=compact&langs_count=16&theme=dark"/>
+    <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=ViniciusAncelani&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+    <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAncelani&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ### Linguagens e ferramentas
