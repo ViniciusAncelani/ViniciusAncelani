@@ -2,17 +2,28 @@
 
 **`Aspirante a Desenvolvedor Full Stack`**
 
-Me chamo Vinicius Ancelani, Tenho 17 anos e sou natural de Guarulhos, São Paulo. Estou cursando o Ensino Médio na ETEC Parque Belém no curso técnico em Desenvolvimento de Sistemas(DS). Sou focado em apredizado contínuo e busco soluções práticas e úteis para desenvolver código.
+Me chamo Vinicius Ancelani, tenho 17 anos e sou natural de Guarulhos, São Paulo. Estou cursando o Ensino Médio integrado ao técnico em Desenvolvimento de Sistemas na ETEC Parque Belém. Como estudante, sou comprometido com o aprendizado constante e gosto de buscar soluções simples e úteis para os desafios de programação. Tenho interesse em aprender cada vez mais sobre o mundo da tecnologia e me desenvolver para, futuramente, atuar como desenvolvedor.
 
-<a href = "www.linkedin.com/in/vinicius-ancelani-11841b357">
-    <img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<div>
+    <a href = "mailto:viniciusancelani@gmail.com">
+        <img align="left" style="padding-right:10px;" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail"/>
+    </a>
+    <a href = "www.linkedin.com/in/vinicius-ancelani-11841b357">
+        <img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&   logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href = "https://www.instagram.com/vini.ancelani07/">
+        <img align="left" style="padding-right:10px;" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&   logoColor=white" alt = "Instagram"/>
+    </a>
+    <a href = "https://wa.me/5511912345678?text=Olá%2C%20Vinicius!%20Gostaria%20de%20falar%20com%20você.">
+        <img align="left" style="padding-right:10px;" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt = "Whatsapp"/>
+    </a> 
+</div>
 
-<a href = "https://www.instagram.com/vini.ancelani07/">
-    <img style="padding-right:10px;" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram"/>
-</a>
+
+<br>
 
 ### Estastísticas
+
 <div>
     <a href = "https://github.com/ViniciusAncelani">
     <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=ViniciusAncelani&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
