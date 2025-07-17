@@ -8,7 +8,7 @@ Me chamo Vinicius Ancelani, tenho 17 anos e sou natural de Guarulhos, São Paulo
     <a href = "mailto:viniciusancelani@gmail.com">
         <img align="left" style="padding-right:10px;" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail"/>
     </a>
-    <a href = "linkedin.com/in/vinicius-ancelani">
+    <a href = "linkedin.com/in/vinicius-ancelani/">
         <img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href = "https://www.instagram.com/vini.ancelani07/">
@@ -55,4 +55,3 @@ Me chamo Vinicius Ancelani, tenho 17 anos e sou natural de Guarulhos, São Paulo
 ### Desafios e Melhorias
 
 Busco evoluir constantemente, mesmo que seja com pequenos avanços diários de 1%, sempre em direção à minha melhor versão. Atualmente, estou focado no desenvolvimento Back-end, aprofundando meus conhecimentos em Java e MySQL. Paralelamente, também estudo Front-end, com ênfase em JavaScript, React e TypeScript, a fim de me tornar um profissional completo. Durante meus estudos, aplico os conceitos aprendidos em projetos práticos e relevantes para o mercado de trabalho, buscando sempre alinhar teoria e prática.
-
