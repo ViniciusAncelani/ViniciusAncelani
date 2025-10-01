@@ -2,7 +2,7 @@
 
 **`Futuro Engenheiro de Software`**
 
-Me chamo Vinicius Ancelani, tenho 17 anos e sou natural de Guarulhos, São Paulo. Estou cursando o Ensino Médio integrado ao técnico em Desenvolvimento de Sistemas na ETEC Parque Belém. Como estudante, sou comprometido com o aprendizado constante e gosto de buscar soluções simples e úteis para os desafios de programação. Tenho interesse em aprender cada vez mais sobre o mundo da tecnologia e me desenvolver para, futuramente, atuar como desenvolvedor.
+Me chamo Vinicius Ancelani, tenho 18 anos e sou natural de Guarulhos, São Paulo. Estou cursando o Ensino Médio integrado ao técnico em Desenvolvimento de Sistemas na ETEC Parque Belém. Como estudante, sou comprometido com o aprendizado constante e gosto de buscar soluções simples e úteis para os desafios de programação. Tenho interesse em aprender cada vez mais sobre o mundo da tecnologia e me desenvolver para, futuramente, atuar como desenvolvedor.
 
 <div>
     <a href = "mailto:viniciusancelani@gmail.com">
