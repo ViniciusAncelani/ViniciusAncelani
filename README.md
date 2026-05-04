@@ -97,23 +97,13 @@ Me chamo Vinicius Ancelani, tenho 18 anos e sou natural de Guarulhos, São Paulo
 <br>
 
 ### 📊🎯💻 Estatísticas 
-<p>
-<img 
-    align="left"
-    alt="Github Stats"
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusAncelani&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-/>
-
-<img
-    align="right"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniciusAncelani&layout=compact&theme=dark&langs_count=6"
-/>
+<p align = "center">
+    <img height="170" style = "margin-rigth: 10px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusAncelani&show_icons=true&theme=dark"/>
+    <img height="170" style = "margin-rigth: 10px;" src="https://streak-stats.demolab.com?user=ViniciusAncelani&theme=dark"/>
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniciusAncelani&layout=compact&theme=dark"/>
 </p>
 
-<br>
+<br clear="both">
 
 ### Evolução e Desafios 
 Como estudante, sou comprometido com o aprendizado constante e busco sempre soluções úteis e eficientes para os desafios de programação. Procuro manter consistência e disciplina nos meus estudos, entendendo que a evolução vem da prática diária. Carrego comigo o objetivo de melhorar todos os dias, nem que seja apenas 1%, acreditando que pequenos avanços contínuos constroem grandes resultados. Tenho grande interesse em tecnologia e busco me desenvolver para, futuramente, atuar como Engenheiro de Software.    
