@@ -109,7 +109,7 @@ Me chamo Vinicius Ancelani, tenho 18 anos e sou natural de Guarulhos, São Paulo
     align = "left"
     alt = "GitHub Stats"
     heigth = "200"
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAncelani&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5"
+    src = "https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusAncelani&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5"
 />
 </p>
 
